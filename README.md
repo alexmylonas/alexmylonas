@@ -58,7 +58,7 @@
 ## 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexmylonas&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexmylonas&theme=dark&hide_border=true&border_radius=6&mode=weekly)](https://git.io/streak-stats)
 
 <img src="https://komarev.com/ghpvc/?username=alexmylonas&style=flat-square&color=blue" alt=""/>
 
