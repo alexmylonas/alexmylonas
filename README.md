@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I consider myself a Product & Software Engineer, contributing to interesting products in multiple domains, rn 🐝 @ [Panther](https://panther.com)
+- :telescope: I consider myself a Product & Software Engineer, contributing to interesting products in multiple domains, rn 🐝 @ [J.P Morgan Onyx](https://www.jpmorgan.com/onyx/index)
 
 - :seedling: Learning Blockchain fundamentals
 
