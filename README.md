@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I consider myself a Product & Software Engineer, contributing to interesting products in multiple domains, rn 🐝 @ [J.P Morgan Onyx](https://www.jpmorgan.com/onyx/index)
+- :telescope: I consider myself a Product & Software Engineer, contributing to interesting products in multiple domains, rn 🐝 @ [J.P Morgan Kynexis (former Onyx)](https://www.jpmorgan.com/kinexys/index)
 
 - :seedling: Learning Blockchain fundamentals
 
@@ -55,12 +55,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexmylonas&theme=dark&hide_border=true&border_radius=6&mode=weekly)](https://git.io/streak-stats)
-
-<img src="https://komarev.com/ghpvc/?username=alexmylonas&style=flat-square&color=blue" alt=""/>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmylonas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
