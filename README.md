@@ -28,7 +28,7 @@
 
 - :telescope: I consider myself a Product & Software Engineer, contributing to interesting products in multiple domains, rn 🐝 @ [J.P Morgan Kynexis (former Onyx)](https://www.jpmorgan.com/kinexys/index)
 
-- :seedling: Learning Blockchain fundamentals
+- :seedling: Learning ZKP fundamntals
 
 - :zap: In my free time, I am contributing to Open Source libraries.
 
