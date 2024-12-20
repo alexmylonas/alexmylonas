@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I consider myself a Product & Software Engineer, contributing to interesting products in multiple domains, rn 🐝 @ [J.P Morgan Kynexis (former Onyx)](https://www.jpmorgan.com/kinexys/index)
+- :telescope: I consider myself a Blockchain & Software Engineer, contributing to interesting products in multiple domains, rn 🐝 @ [J.P Morgan Kynexis (former Onyx)](https://www.jpmorgan.com/kinexys/index)
 
 - :seedling: Learning ZKP fundamntals
 
