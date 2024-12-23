@@ -26,11 +26,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I consider myself a Blockchain & Software Engineer, contributing to interesting products in multiple domains, rn 🐝 @ [J.P Morgan Kynexis (former Onyx)](https://www.jpmorgan.com/kinexys/index)
+- :telescope: I am Alex Mylonas, Blockchain & Software Engineer, contributing to interesting products in multiple domains, rn 🐝 @ [J.P Morgan Kynexis (former Onyx)](https://www.jpmorgan.com/kinexys/index)
 
-- :seedling: Learning ZKP fundamntals
+- :seedling: Working on Zero-Knowledge Proofs concepts and decentralized identity
 
-- :zap: In my free time, I am contributing to Open Source libraries.
+- :zap: In my free time, I am contributing to Open Source libraries and reading books.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Alex_Mylonas-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alexmylonas)
 
